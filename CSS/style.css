@@ -1,0 +1,40 @@
+/* Colors to use:
+Primary- 
+Text -
+*/
+
+/*Global Styles*/
+body {
+    background-image: url(../Images/Background3.png);
+    background-size: 100%;
+}
+
+h1,
+h2 {
+    font-family: 'Poller One', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+li {
+    display: inline-block;
+}
+a {
+    font-size: 36px;
+    
+}
+/*Header Styles*/
+header li {
+    margin: 0 10px;
+}
+header li:first-of-type{
+    margin-left: 0;
+}
+
+/*Footer Styles*/
+footer a {
+    margin: 0px 20px 0px 20px;
+}
